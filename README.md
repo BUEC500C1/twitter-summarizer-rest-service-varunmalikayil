@@ -1,4 +1,4 @@
-# Twitter Summarizer Rest Service
+# Homework 5: Twitter Summarizer Rest Service
 
 ## Assignment Requirements
 
