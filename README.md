@@ -1,4 +1,4 @@
-# Twitter Summarizer Rest Service
+# Homework 5: Twitter Summarizer Rest Service
 
 ## Assignment Requirements
 
@@ -12,7 +12,7 @@
 
 ## Using this API and Documentation for it
 
-What the API I implemented does is allow the user to see summaries of 20 tweets on their timeline. This simple api will implement a single get request response that will return a video to the web browser that the use is currently on as an attachment. The user passes in the url and that indicates that they want to get the video of the summaries.
+What the API I implemented does is allow the user to see summaries of 20 tweets on their timeline. This simple api will implement a single get request response that will return a video to the web browser that the use is currently on as an attachment. The user passes in the url and that indicates that they want to get the video of the summaries. This is hosted on an Apache server that is running Ubuntu on an AWS EC2 instance for accessibiity to all users.
 
 If you want to change the usernames for the twitter feed you want to receive you can change the value of your keys in the videoFFmpeg.py file.
 
