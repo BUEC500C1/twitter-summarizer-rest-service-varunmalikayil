@@ -20,4 +20,12 @@ The documentation for retreiving the summary is as follows:
 
 [EC2 ADDRESS]/download
 
+An image of the url is shown below
+
+![URL to Download Video](./Images/url.png)
+
+When you submit that link it will generate based on the keys in the videoFFmpeg.py file a summary of 20 of that user's tweets in a one minute video format, it will show up as an attatchment in the browser like this.
+
+![URL to Download Video](./Images/download.png)
+
 The EC2 Address will be regnerated everytime I shutdown and run the instance, so please inform me when you want to test this API.
